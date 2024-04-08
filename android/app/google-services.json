@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "159147034554",
+    "project_id": "onestore-b5dcc",
+    "storage_bucket": "onestore-b5dcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159147034554:android:a98178259b42a10a637f83",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk7bvgSt0awaZ7tyXM7w7jL3vUViZkWdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159147034554:android:038c60841002490a637f83",
+        "android_client_info": {
+          "package_name": "com.example.onestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk7bvgSt0awaZ7tyXM7w7jL3vUViZkWdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
